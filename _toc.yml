@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: notebooks
-- file: markdown
-- file: markdown-notebooks
+- file: importancia
+- file: nasdaqcien
+- file: visualizacion
